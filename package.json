@@ -1,6 +1,7 @@
 {
   "name": "mini-project-react",
   "private": true,
+  "homepage": "https://Suman434825.github.io/weather-app-react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
